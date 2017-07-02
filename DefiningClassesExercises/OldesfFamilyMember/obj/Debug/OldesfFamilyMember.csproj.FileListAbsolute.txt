@@ -1,0 +1,6 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\bin\Debug\OldesfFamilyMember.exe.config
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\bin\Debug\OldesfFamilyMember.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\bin\Debug\OldesfFamilyMember.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\obj\Debug\OldesfFamilyMember.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\obj\Debug\OldesfFamilyMember.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\OldesfFamilyMember\obj\Debug\OldesfFamilyMember.csprojResolveAssemblyReference.cache

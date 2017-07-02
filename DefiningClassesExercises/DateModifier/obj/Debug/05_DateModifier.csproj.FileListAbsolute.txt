@@ -1,0 +1,5 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\bin\Debug\DateModifier.exe.config
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\bin\Debug\DateModifier.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\bin\Debug\DateModifier.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\obj\Debug\DateModifier.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\obj\Debug\DateModifier.pdb

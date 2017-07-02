@@ -1,0 +1,5 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.pdb
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.exe
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.pdb

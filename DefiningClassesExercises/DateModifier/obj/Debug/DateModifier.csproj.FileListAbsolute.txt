@@ -1,0 +1,1 @@
+C:\Users\Ivan Petrov\Documents\Visual Studio 2015\Projects\CSharp_Advanced_OOP\DefiningClassesExercises\DateModifier\bin\Debug\DateModifier.exe.config
